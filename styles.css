@@ -1,0 +1,41 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #ffccff; /* Color de fondo rosa claro */
+    color: #333; /* Color del texto */
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #ff66b2; /* Rosa más intenso */
+    padding: 20px;
+    text-align: center;
+}
+
+h1 {
+    color: white;
+}
+
+main {
+    padding: 20px;
+}
+
+.contenido {
+    background-color: #ff99cc; /* Rosa suave */
+    border-radius: 10px;
+    padding: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+h2 {
+    color: #ff3399; /* Rosa fuerte */
+}
+
+footer {
+    text-align: center;
+    padding: 10px;
+    background-color: #ff66b2; /* Rosa más intenso */
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
